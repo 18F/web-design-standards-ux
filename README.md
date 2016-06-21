@@ -21,4 +21,4 @@ The Research Plan Template will assist the team in planning and running future r
 
 User Profiles  
 -------------  
-Link - TBD
+Link - https://github.com/18F/web-design-standards-ux/blob/master/Background%20and%20Process/User%20Profiles/WDS%20User%20Archetypes.pdf
