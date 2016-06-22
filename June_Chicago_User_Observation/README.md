@@ -19,7 +19,6 @@ Here are the top observations coming out of the research:
 
 ##Locating files is confusing
 * Multiple files with the same name can show up when doing a search. E.g. style.css
-* asd
 
 ##Instructions are helpful, but lacking in some areas
 * "Should we download the whole repo?"
