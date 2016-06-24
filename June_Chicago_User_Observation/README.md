@@ -2,7 +2,7 @@ June 2016 - Chicago User Observation
 ===================  
 At the Write/Speak/Code conference held in Chicago, IL, a team member attended the coding portion of the conference to observe attendees interacting with the Draft Web Design Standards. These attendees were participating in their very first open source project and were prime candidates to observe to understand user on-boarding.
 
-##Set Up
+##Research Set Up
 Attendees of the conference were given the choice of open source project they would like to work on as their first project. Some broke up in pairs to work on similar tasks, others worked solo.
 
 As the attendees began to work on the Draft Web Design Standards, we would walk around and listen any issues or concerns they had. If anything came up of note, e.g. issues setting up the project, the team would engage with probing questions to learn more about how the issue occurred and how the attendee was trying to resolve the issue.
