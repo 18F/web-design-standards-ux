@@ -7,38 +7,47 @@ Attendees of the conference were given the choice of open source project they wo
 
 As the attendees began to work on the Draft Web Design Standards, we would walk around and listen any issues or concerns they had. If anything came up of note, e.g. issues setting up the project, the team would engage with probing questions to learn more about how the issue occurred and how the attendee was trying to resolve the issue.
 
-#observations
+#Observations
 Here are the top observations coming out of the research:
 
 ##Initial setup is daunting
+* It wasn't clear if they needed to recreate the site as a whole or just the draft design standards.
+* Some attendees were starting off with a fresh install and ran into issue that were based on being unfamiliar with open source projects and node.
+* Other attendees had development environments in place that weren't updated and kept getting errors that confused them.
+* After awhile, a few attendees noticed that the website for the draft standards had additional instructions, but they stumbled onto that fact rather than being directed there from the repo.
+* Given the level of experience with web development and open source projects, some of our terminology confused them. E.g. NPM
+* The steps that need to be followed to set up the project locally confused some attendees since some instructions included multiple steps to follow.
+
+## Quotes
 * "I can't find all of the dependencies though?"
-* The site has a lot of great information on how to get started, but the repo doesn't effectively point people to the site. We should assume the repo is the initial point of contact with the project.
-* Attendee was getting initial fails when setting up the project because existing development environment didn't have an updated set up.
-* Some jargon isn't known for new contributors such as NPM.
-* Clearly separate individual steps and combo steps to guide people through the setup.
+* "Do I fork it to my own personal repo?"
 
 ##Locating files is confusing
 * Multiple files with the same name can show up when doing a search. E.g. style.css
 
+## Quotes
+* "I'll try not to mess anything up..."
+
 ##Instructions are helpful, but lacking in some areas
-* "Should we download the whole repo?"
-  * Instructions should be goal oriented. What does the use want to do? Here's how...
-* New contributors may need additional guidance on how to replicate bug issues so they can attempt a solution.
-* Some of the instructions don't match the headlines when discussing npm setup.
-* Some attendees had to use google and locate outside instructions for setting up node, especially on window machines.
-  * http://blog.teamtreehouse.com/install-node-js-npm-windows
-* Clear channel to reach the core team is needed to address initial questions.
+* It wasn't clear to attendees if they needed to download the whole repo to get started or just the files they were focused on.
+* One suggestion that was heard was to write the instructions based on the goals of the contributor, which could help guide them during setup and contribution. 
+* For bug issues, contributors that are new to open source projects may need additional direction on how to replicate the bug so they can attempt to address it.
+* Other steps in the instructions are referenced in earlier steps, but the headlines further down don't match the phrases used when it was referenced. E.g. Discussion NPM setup
+* Attendees were observed using google to locate other forms of instructions because the instructions included in the repo didn't provide enough guidance.
+  * For example - http://blog.teamtreehouse.com/install-node-js-npm-windows
+* Clear instructions on how to contact to team to address any initial issues or questions
 * Provide additional context around the Pull Request template to allow novice contributors to better create Pull Requests.
 
-##Finding Ways to Contribute
-* "Are things prioritized at all?"
-  * Contributors need to be pointed to the filters and taught how to use them
-  * "How does assignments work? Can I assign something to myself?"
-* "How do I get started?"
-* Is it possible to provide folks with the source design files to make creating contribution easier?
-* What frameworks are acceptable when creating contributions to the site or the draft standards?
-* If an issue is centered around a visual problem, we should ensure that annotations are included to help contributions understand what the real problem is.
+##Quotes
+* "Should we download the whole repo?"
 
-##Meaningful Quotes
-* "I'll try not to mess anything up..."
-* "Do I fork it to my own personal repo?"
+##Finding Ways to Contribute
+* Provide a dashboard that points to the current focus of the team to allow new contributors to get started.
+  * Contributors need some guidance on how to use filters to find issues that they can start to work on.
+* Provide guidance on the types of development frameworks that are acceptable when creating contributions to the site or the draft standards.
+* If an issue is centered around a visual problem, the issue should include annotations are included to help contributions understand what the real problem is.
+
+##Quotes
+* "Are things prioritized at all?"
+* "How does assignments work? Can I assign something to myself?"
+* "How do I get started?"
